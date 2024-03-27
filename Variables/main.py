@@ -53,3 +53,13 @@ print("Answer Operator(or): ", val3 or val4) # True
 
 # Type Conversion(Interpreter of Python does it automatically)
 # Type Casting(It is done manually)
+a = float("9.02")
+b = int("3")
+st = str(124)
+
+print(type(a))
+print(type(b))
+print(type(st))
+
+summ = a + b
+print(summ)
