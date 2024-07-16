@@ -6,7 +6,7 @@ print(mangoLen)
 # print(fruit[:5])
 # print(fruit[0:-3])
 # print(fruit[:len(fruit)-3])
-print(fruit[-1:len(fruit) - 3])
+print(fruit[-1 : len(fruit) - 3])
 print(fruit[-3:-1])
 
 # Quick Quiz:

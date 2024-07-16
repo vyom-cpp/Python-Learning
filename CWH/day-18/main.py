@@ -1,8 +1,8 @@
 i = int(input("Enter the number: "))
 print(i)
-while(i<=38):
-  i = int(input("Enter the number: "))
-  print(i)
+while i <= 38:
+    i = int(input("Enter the number: "))
+    print(i)
 
 print("Done with the loop")
 
@@ -14,5 +14,5 @@ print("Done with the loop")
 #   print("I am inside else")
 
 # do {
-  # loop body;
+# loop body;
 # }while(condition);
