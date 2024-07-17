@@ -6,4 +6,4 @@ ep2 = {222: 67, 566: 90}
 # ep1.pop(122)
 ep1.popitem()
 del ep1[122]
-print(ep1) 
+print(ep1)
