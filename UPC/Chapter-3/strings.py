@@ -16,4 +16,5 @@ print(SL)
 # Negative indices corresponds to -1 = (length - 1) index, -2 = (length - 2) index
 
 a = "abcdefghijklmnopqrstuvwxyz"
-print(a[0:19:3])
+print(a[0:19:3]) #adgjmps
+#  Slices from index 0 to index 18, which is abcdefghijklmnopqr, then it starts from index 0 and jumps till 3rd on, which above shown
