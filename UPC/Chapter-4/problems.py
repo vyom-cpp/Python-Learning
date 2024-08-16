@@ -1,43 +1,43 @@
 # Add the fruits name entered by user
-# fruits = []
+fruits = []
 
-# f1 = input("Enter the fruit's name: ")
-# fruits.append(f1)
+f1 = input("Enter the fruit's name: ")
+fruits.append(f1)
 
-# f2 = input("Enter the fruit's name: ")
-# fruits.append(f2)
+f2 = input("Enter the fruit's name: ")
+fruits.append(f2)
 
-# f3 = input("Enter the fruit's name: ")
-# fruits.append(f3)
+f3 = input("Enter the fruit's name: ")
+fruits.append(f3)
 
-# f4 = input("Enter the fruit's name: ")
-# fruits.append(f4)
+f4 = input("Enter the fruit's name: ")
+fruits.append(f4)
 
-# f5 = input("Enter the fruit's name: ")
-# fruits.append(f5)
+f5 = input("Enter the fruit's name: ")
+fruits.append(f5)
 
-# print(fruits)
+print(fruits)
 
 # Accept the marks of students and display in sorted manner
-# student = []
+student = []
 
-# s1 = int(input("Enter marks: "))
-# student.append(s1)
+s1 = int(input("Enter marks: "))
+student.append(s1)
 
-# s2 = int(input("Enter marks: "))
-# student.append(s2)
+s2 = int(input("Enter marks: "))
+student.append(s2)
 
-# s3 = int(input("Enter marks: "))
-# student.append(s3)
+s3 = int(input("Enter marks: "))
+student.append(s3)
 
-# s4 = int(input("Enter marks: "))
-# student.append(s4)
+s4 = int(input("Enter marks: "))
+student.append(s4)
 
-# s5 = int(input("Enter marks: "))
-# student.append(s5)
+s5 = int(input("Enter marks: "))
+student.append(s5)
 
-# student.sort()
-# print(student)
+student.sort()
+print(student)
 
 # Sum of list
 list = [1, 334, 34, 12]

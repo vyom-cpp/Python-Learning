@@ -44,7 +44,8 @@ print(f"Found 'World' in string5 at index: {found_index}")
 
 # startswith() - Check if string6 starts with 'Hello'
 starts_with = string6.startswith("Hello")
-print(f"string6 starts with 'Hello': {starts_with}")
+print(f"string6 s
+      tarts with 'Hello': {starts_with}")
 
 # endswith() - Check if string7 ends with 'World!'
 ends_with = string7.endswith("World!")

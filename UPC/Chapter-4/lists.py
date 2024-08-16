@@ -1,3 +1,5 @@
+# Lists are array like thing but are mutable
+
 friends = ["Apple", "Orange", 5, 6.9, False]
 
 print(friends)
